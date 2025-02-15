@@ -1,6 +1,6 @@
 // EmailJS inicializálása
 (function() {
-    emailjs.init({publicKey: 'YOUR_PUBLIC_KEY',}); // Helyettesítsd a saját EmailJS User ID-ddel
+    emailjs.init({publicKey: 'tU7aBOzCfej_K122M',}); // Helyettesítsd a saját EmailJS User ID-ddel
 })();
 
 // Űrlap beküldésének kezelése
